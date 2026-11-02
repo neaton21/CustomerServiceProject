@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Iron Paradise Gym Chat</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="container">
+        <header>
+            <h1>Iron Paradise Assistant</h1>
+        </header>
+
+        <div id="chat-box">
+            <div class="message bot">Hello! How can I help you with your gym membership today?</div>
+            <div id="loading" class="message bot" style="display: none;">
+                <i>Thinking...</i>
+            </div>
+        </div>
+
+        <div class="input-row">
+            <input id="user-input" placeholder="Type your question here...">
+            <button onclick="sendMessage()">Send</button>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

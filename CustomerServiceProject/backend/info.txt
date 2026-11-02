@@ -1,0 +1,23 @@
+[Gym_Name] 
+Iron Paradise Fitness
+
+[Location_and_Contact] 
+Address: 123 Fitness Way, South Buffalo, NY 14210. 
+Phone: (555) 555-5555. 
+Email: support@ironparadise.com.
+
+[Operating_Hours]
+Iron Paradise Fitness is a 24/7 facility. Members have full access 24 hours a day, 7 days a week, including holidays. Physical staff are only present at the front desk from 9:00 AM to 5:00 PM, but the gym itself never closes.
+
+[Access_Instructions]
+Entry is managed digitally. All members must download the 'GymMaster' app on their smartphone. You use the app to scan the QR code at the front door to unlock the facility.
+
+[Gym_Features_and_Equipment]
+- Olympic weightlifting platforms and bumper plates.
+- A full cardio zone equipped with treadmills, ellipticals, and rowers.
+- Relaxation: A sauna and steam room are located inside the locker rooms.
+- Studio: We have a dedicated group fitness studio for classes.
+- Services: Towel service is available at the front desk for a small fee of $2 per visit.
+
+[Parking_and_Arrival]
+We are located in a large strip mall complex. There is a massive, free parking lot available directly in front of the gym entrance. No validation or permits are required.
